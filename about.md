@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: 关于自己
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+iOS / macOS 开发者。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+这里分享我对技术的一些实践经历。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+你也可以通过邮件联系我： [qifan.zhang@chipmuck.cc](mailto:qifan.zhang@chipmuck.cc)
 
-
-[jekyll-organization]: https://github.com/jekyll
+欢迎光临！玩得愉快！
