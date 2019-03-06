@@ -2,14 +2,13 @@
 layout: post
 title: 「中文翻译」 如何使 App 在离线状态下保持工作
 categories: 个人译文
-tags: Translations
 date: 2017-07-12 22:23:24 +8000
 ---
 
 > 原文来源：[How to Make Mobile Apps Work Offline](https://dzone.com/articles/how-to-make-mobile-app-work-offline)
 作者: [Yura Bondarenko](https://dzone.com/users/2993304/ybondarenko.html)
 
-前言：你应该让你的移动应用尽可能地容易上手，那就让我们来看看在针对离线功能的应用开发中出现的挑战和一系列的解决方案。<!-- more -->
+前言：你应该让你的移动应用尽可能地容易上手，那就让我们来看看在针对离线功能的应用开发中出现的挑战和一系列的解决方案。
 
 在理解如何构建能灵活地处理不同网络场景下离线模式的应用之前，知道最主要能帮你编写出支持离线模式应用的核心技术是很有必要的。要让一款应用提供离线支持，通常有两个比较核心的能力做基础：
 
